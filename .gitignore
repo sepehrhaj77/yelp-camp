@@ -1,0 +1,4 @@
+.prettierignore
+node_modules
+workspace.code-workspace
+.env
